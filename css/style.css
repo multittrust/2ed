@@ -124,7 +124,17 @@ a:hover, a:focus, a:active, a:visited {
 }
 .hero-header .logo {
 	max-width: 300px;
+    font-size: 45px;
+    display:inline;
+    
+    font-weight: 600;
+
+    -webkit-text-fill-color: rgb(266, 127, 46);
+    text-shadow: 1px 1px rgb(126,83,251);
 }
+
+
+
 .hero-header .btn {
 	margin-top: 3em;
 }
